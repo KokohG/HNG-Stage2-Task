@@ -44,26 +44,26 @@ header img{
     .fa:hover {
     opacity: 0.7;
   }  
-  /* Facebook */
+  
   .fa-facebook {
     background: #3B5998;
     color: white;
   }
-  /* Linkedin */
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
   .fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-/* Twitter */
-.fa-twitter {
-  background: #3B5998;
-  color: white;
-}
-/* Github */
-.fa-github {
-  background: #000;
-  color: white;
-}
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-github {
+    background: #000;
+    color: white;
+  }
 
 /* Section1 */
 .top-tag{
